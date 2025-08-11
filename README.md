@@ -1,1 +1,1 @@
-# smartGreenhouse
+# Smart Greenhouse
