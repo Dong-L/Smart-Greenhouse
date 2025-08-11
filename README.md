@@ -1,1 +1,2 @@
 # Smart Greenhouse
+Arduino scripts used monitor and maintain the temperature, humidity, and soil moisture of a greenhouse. Event-driven programming respond to manual controls. Code ran on an Arduino microcontroller and displayed to an LCD using I2C protocol. Other physical components include sensors, heaters, buttons, a water pump, and a roof-lifting motor to maintain optimal greenhouse conditions.
